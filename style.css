@@ -1,0 +1,17 @@
+body {
+       background-color: gray;
+}
+
+ ul>li {
+        font-weight: bold;
+ }
+
+ h1:hover { 
+           color: white;
+ }
+
+ p::first-letter {
+                   font-size: 200%;
+                   color: white;
+
+ }
